@@ -1,0 +1,1 @@
+{"rewrites":[{"source":"/css/:path*","destination":"/:path*"},{"source":"/js/:path*","destination":"/:path*"},{"source":"/data/:path*","destination":"/:path*"},{"source":"/downloads/:path*","destination":"/:path*"},{"source":"/vendor/:path*","destination":"/:path*"},{"source":"/tools/:path*","destination":"/:path*"}]}
